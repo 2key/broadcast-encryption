@@ -1,0 +1,15 @@
+{
+  "name": "broadcast_encryption",
+  "version": "1.0.0",
+  "description": "demonstrate broadcast encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mcl-wasm": "^0.3.7"
+  }
+}
