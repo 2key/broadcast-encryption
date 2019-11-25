@@ -2,6 +2,7 @@ Demonstration of "Collusion Resistant Broadcast Encryption With
 Short Ciphertexts and Private Keys" [BGW05](https://eprint.iacr.org/2005/018.pdf)
 
 # install
+this code depends on [mcl-wasm](https://github.com/herumi/mcl-wasm) and other modules. Install them with:
 ```
 npm i
 ```
